@@ -1,2 +1,3 @@
 # DM2024-Lab2-master
-ISA5810 Data Mining Lab 2
+This project was completed as part of the Data Mining course at NTHU, covering topics such as LLMs, RAG, and unsupervised learning.  
+
